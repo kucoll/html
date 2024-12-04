@@ -1,4 +1,5 @@
 新文件2
 feature/cnm增加功能1
 feature/cnm增加功能2,功能2参数修改
+master增加功能3
 feature/cnm增加功能4
